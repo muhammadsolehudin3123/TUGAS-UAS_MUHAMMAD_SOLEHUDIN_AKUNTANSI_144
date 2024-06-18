@@ -1,0 +1,11 @@
+ID,Product,StockIn,StockOut,StockBalance,Location,Date
+1,Product_A,30,10,20,Warehouse_1,2023-01-01
+2,Product_B,15,5,10,Warehouse_2,2023-01-02
+3,Product_C,21,7,14,Warehouse_3,2023-01-03
+4,Product_D,9,3,6,Warehouse_4,2023-01-04
+5,Product_E,24,8,16,Warehouse_1,2023-01-05
+6,Product_F,18,6,12,Warehouse_2,2023-01-06
+7,Product_G,27,9,18,Warehouse_3,2023-01-07
+8,Product_H,12,4,8,Warehouse_4,2023-01-08
+9,Product_I,33,11,22,Warehouse_1,2023-01-09
+10,Product_J,6,2,4,Warehouse_2,2023-01-10

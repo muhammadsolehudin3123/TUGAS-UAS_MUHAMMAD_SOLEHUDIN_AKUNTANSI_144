@@ -1,0 +1,11 @@
+ID,Supplier,Product,Quantity,Cost,TotalCost,Date
+1,Supplier_A,Product_A,20,90,1800,2023-01-01
+2,Supplier_B,Product_B,10,180,1800,2023-01-02
+3,Supplier_C,Product_C,14,130,1820,2023-01-03
+4,Supplier_D,Product_D,6,270,1620,2023-01-04
+5,Supplier_E,Product_E,16,100,1600,2023-01-05
+6,Supplier_F,Product_F,12,160,1920,2023-01-06
+7,Supplier_G,Product_G,18,120,2160,2023-01-07
+8,Supplier_H,Product_H,8,230,1840,2023-01-08
+9,Supplier_I,Product_I,22,100,2200,2023-01-09
+10,Supplier_J,Product_J,4,370,1480,2023-01-10
